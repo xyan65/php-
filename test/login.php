@@ -24,6 +24,7 @@
     <p><button type="submit">登录</button>
         <a href="register.php"><button type="button">注册</button></a>
         <a href="home.php"><button type="button">首页</button></a></p>
+
 </form>
 </body>
 </html>
